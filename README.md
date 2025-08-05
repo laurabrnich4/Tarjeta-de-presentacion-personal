@@ -1,17 +1,19 @@
-# 📘 Trabajo Práctico 1: Tarjeta de Presentación Personal
+# 📘 TP 1: Tarjeta de Presentación Personal con HTML + CSS
 
----
+## 🔗 Link del Repositorio:
+[Tarjeta de Presentanción de Laura Brnich](http://laurabrnich4.github.io/Tarjeta-de-presentacion-personal/ "Laura")
 
-## 🎯 Objetivo
-Crear una pequeña tarjeta de presentación personal utilizando HTML y CSS sin Flexbox.
-
+## ✨ Características Principales
 ````
-
-📝 Contenido sugerido
-La tarjeta debe incluir:
-•	Tu nombre completo
-•	Tu ocupación o lo que estudiás
-•	Una breve descripción (2 o 3 líneas)
-•	Una imagen (avatar o foto)
-
+- Realizada con HTML y CSS.
+- Sin Flexbox ni Grid.
+- Etiquetas básicas en el HTML: <html>, <head>, <body>, <h1>, <p>, <img>, <div>
+- Estilos con CSS:
+  o Fondos con color
+  o Textos con color
+  o Márgenes y padding
+  o Border y border-radius
+- Archivo style.css externo
+- Una fuente con Google Fonts
+- Efecto :hover a la imagen
 ````
